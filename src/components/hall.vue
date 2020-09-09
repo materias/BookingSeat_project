@@ -293,6 +293,7 @@ export default {
 h3 {
   font-size: 16px;
 }
+
 .seats {
   display: flex;
   justify-content: space-between;
